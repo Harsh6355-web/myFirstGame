@@ -5,13 +5,12 @@
 
 }
 .gameName{
-    text-align:center;
-    line-height:5rem;
-    background-color:black;
-    color:blue
 
-
-
+display:flex;
+justify-content:center;
+align-items:center;
+height:5rem;
+background-color:blue;
 }
  .gameText{
     color:black;
