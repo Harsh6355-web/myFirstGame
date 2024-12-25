@@ -2,6 +2,7 @@
     padding:0px;
     margin:0px;
     border:border-box;
+    
 
 }
 .gameName{
@@ -9,11 +10,30 @@
 display:flex;
 justify-content:center;
 align-items:center;
-height:5rem;
-background-color:blue;
+height:3rem;
+
 }
  .gameText{
     color:black;
     font-size:5rem;
     font-weight:700;
 }
+.boxes{
+    height:500px;
+    width:500px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    justify-content:center;
+    align-items:center;
+    margin-top:25px;
+    margin-left:400px;
+}
+.box{
+    height:150px;
+    width:150px;
+    border-radius:10px;
+    background-color:black;
+
+};
+
