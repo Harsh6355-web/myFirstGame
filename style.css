@@ -1,0 +1,20 @@
+*{
+    padding:0px;
+    margin:0px;
+    border:border-box;
+
+}
+.gameName{
+    text-align:center;
+    line-height:5rem;
+    background-color:black;
+    color:blue
+
+
+
+}
+ .gameText{
+    color:black;
+    font-size:5rem;
+    font-weight:700;
+}
